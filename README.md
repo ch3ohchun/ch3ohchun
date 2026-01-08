@@ -1,92 +1,106 @@
 # 👋 Hey there, I'm Chun!
+**AI Engineer**
 
-🌟 AI Engineer | 🚀 Generative AI Explorer | 🤝 Community-Driven Developer
-
----
-
-## 🚀 About Me
-
-I’m Chun, an AI engineer passionate about building impactful tools through LLMs, prompt engineering, and cross-disciplinary collaboration. Currently leading AI development at **Leaven IP Management** (a subsidiary of Lee and Li Attorneys-at-Law), I focus on real-world applications of Generative AI in law, education, and healthcare.
-
-I’m all about bridging the gap between AI and people — making tech usable, meaningful, and inclusive.
-
-### 🧩 Recent Highlights
-- 👨‍💼 **Team Lead @ Leaven IPM**: Led a team of 3 engineers to deploy AI-driven legal solutions using LLMs and secure pipelines.
-- 🧠 **AI Engineer @ Lee and Li**: Fine-tuned **LLaMA 3.3**, built a **privacy-first de-ID pipeline**, and launched an internal **Prompt Store** used by 50+ professionals.
-- 📚 **AI for Education @ NTNU**: Created “Story Teller”, an adaptive AI storytelling platform using **Azure Immersive Reader** to support language learning.
-- ✍️ **Creative AI Research @ NTU**: Developed a **tri-LLM workflow** for novel writing, showcased in university exhibitions and public presentations.
-
----
-
-## 🛠️ Skills Snapshot
-
-### 🤖 AI & NLP
-- Prompt Engineering (Glossary-based, Adaptive)
-- Fine-tuning & Inference with LLaMA 3 and GPT Models
-- Embedding Search, RAG Pipelines, and Vector Databases
-- Secure AI Pipelines for PII De-identification
-- LLM Evaluation, QA Automation & Prompt Testing
-- Local Model Deployment using **Ollama** with **API Exposure** via **Nginx**
-
-### 💻 Programming & Tools
-- Languages: Python, JavaScript, HTML/CSS, SQL, C/C++
-- Frameworks: TensorFlow, PyTorch, LangChain
-- DevOps & Deployment: Git/GitHub, Docker, CI/CD, Nginx
-- APIs & Cloud: OpenAI API, Azure, FastAPI, Ollama
+📍  Taipei, Taiwan (Current) · Melbourne, VIC, Australia (From March 2026)
+📧 [ch3ohchun@gmail.com](mailto:ch3ohchun@gmail.com)  
+📱 +886 987-666-986  
+🔗 [LinkedIn](https://www.linkedin.com/in/ch3ohchun) · [GitHub](https://github.com/ch3ohchun)
 
 ---
 
 ## 🎓 Education
 
-**National Taiwan University (2019–2025)**  
-B.S. in Computer Science & Information Engineering  
-> Focus: Smart Healthcare, Health Big Data
-> 📌 Scholarships: Mrs. May Jen, NTU-YLL Project
+### Master of Information Technology  
+**The University of Melbourne**, Melbourne  
+*2026 – 2027 (Expected)*  
+- Focus on Artificial Intelligence and Software Engineering
 
-**University of Adelaide (2023–2024)**  
-Exchange Year – Advanced AI & Global Culture Exposure 🇦🇺
-
----
-
-## 💼 Experience Overview
-
-### 👨‍💼 AI Engineer & Team Lead – Leaven IP Management (2025–Present)
-- Led a 3-person AI team to develop internal LLM tools for legal document analysis and retrieval.
-- Owned deployment of secure, fine-tuned models (LLaMA 3.3) for de-identifying confidential data.
-
-### 🤖 Prompt Engineer – Lee and Li Attorneys-at-Law (2024–Present)
-- Built a centralized Prompt Store for legal/translation tasks (50+ weekly active users).
-- Developed RAG systems and high-precision embedding search for Competition Law.
-
-### 🧑‍🏫 AI Developer – NTNU (2023–2024)
-- Created a platform for generating teacher-guided narratives using OpenAI + Azure immersive reader.
-- Integrated speech-pronunciation assistance to boost student engagement.
-
-### ✍️ Co-Project Lead – NTU IAgents Lab (2022–2023)
-- Pioneered the agent-based **tri-LLM workflow** for story generation and research augmentation.
+### B.S. in Computer Science  
+**National Taiwan University**, Taipei  
+*2019 – 2025*  
+- Programs: Smart Healthcare Program; Health Big Data Program  
+- Exchange Student: University of Adelaide, Australia (2023 – 2024)
 
 ---
 
-## 🎤 Talks & Showcases
+## 💼 Professional Experience
 
-- **Unleashing Creativity with LLM** (2023) – Showcased novel writing platform powered by GPT agents.
-- **Let's Chat: AI and Everything** (2023) – Presented iterative design of tri-LLM pipeline.
+### Senior AI Engineer  
+**Lee & Li Attorneys-at-Law**, Taipei  
+*2025 – Present*
+- **Business Impact:** Reduced legal document processing cost from **$300 to <$4**, and turnaround time from **40 hours to 20 minutes** via LLM-driven automation
+- **System Design:** Architected secure on-premise LLM pipelines for confidential legal data, ensuring compliance with strict privacy and regulatory requirements
+- **Product Integration:** Built a FastAPI-based Microsoft Word add-in used by **100+ legal professionals**
+- **Leadership:** Promoted to Senior within 15 months; leading a team of **3 engineers** on firm-wide AI initiatives
+
+### AI Engineer  
+**Lee & Li Attorneys-at-Law**, Taipei  
+*2024 – 2025*
+- Built domain-adapted LLM translation systems for Tier-1 clients (**TSMC, ASE**) covering semiconductor and chemical patents across **US / JP / TW / CN**
+- Implemented **reversible de-identification** and private inference pipelines for sensitive legal data
+- Collaborated with legal experts to encode domain knowledge into AI workflows, improving translation consistency and accuracy
+
+### Part-time Full-Stack Engineer  
+**National Taiwan Normal University — Dept. of English**, Taipei  
+*2023 – 2024*
+- Developed the **Immersive Reader** feature for the *Cool English* platform, supporting shadowing and spoken English practice
+- Integrated Azure services and OpenAI APIs for real-time speech interaction and feedback
 
 ---
 
-## 🌍 Community Engagement
+## 🔬 Research Experience
 
-- 💬 *Sat Club* – Fostering cultural exchange for international students in Adelaide.
-- 🧺 *Orange Sky & Scots Church* – Supporting homeless communities via laundry/volunteer services.
-- 🧠 *NTU Treats Homeless* – Built Unity apps & exhibits to raise awareness on homelessness (VP 2020–2022).
+### Undergraduate Researcher  
+**iAgent Lab, National Taiwan University**, Taipei  
+*2022 – 2023*
+- Research topic: *Unleashing Creativity with LLMs: A Language Learning Model Approach to Improving Writing Quality*
+- Selected presenter at **“Let’s Chat: A Forum on AI and Everything”**
+- Represented the lab at the NTU CS Capstone Project Exhibition
+
+### Research Assistant  
+**Epidemiology Research Lab, National Taiwan University**, Taipei  
+*2021 – 2022*
+- Supported dengue fever and COVID-19 co-infection research using integrated digital surveillance and predictive models
+- Co-author of:  
+  *Decreasing Dengue Severity via Integrated Digital Surveillance and Clinical Risk Assessment for Early Prediction in Taiwan* (2025)
 
 ---
 
-## 💌 Contact
-📫 Email: ch3ohchun@gmail.com  
-🔗 LinkedIn: [chunch3oh](https://www.linkedin.com/in/chunch3oh)  
-🐙 GitHub: [chunch3oh](https://github.com/chunch3oh)
+## 🌍 Languages
+
+- **English:** Professional working proficiency (TOEFL iBT 98)  
+- **Mandarin:** Native
 
 ---
 
-> “Build things that matter. Make AI human-centric. Connect the dots across tech, people, and purpose.”  
+## 🛠 Technical Skills
+
+### GenAI & NLP
+- Large Language Models (LLMs)
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Multi-Agent Systems (MAS)
+- Natural Language Processing
+
+### AI Stack
+- Gemini API, OpenAI API
+- LangChain
+- Vector Databases (Milvus)
+- On-premise LLM Deployment (Gemma, Llama, GPT-OSS)
+
+### Backend
+- Python (Expert)
+- FastAPI
+- SQL
+- Docker
+- CI/CD (GitHub Actions)
+
+### Frontend
+- React
+- Web Integration
+
+### Cloud & Systems
+- Microsoft Azure
+- Google Cloud Platform
+- Secure On-premise Systems
