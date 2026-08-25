@@ -10,11 +10,6 @@
 
 ## 🎓 Education
 
-### Master of Information Technology  
-**The University of Melbourne**, Melbourne  
-*2026 – 2027 (Expected)*  
-- Focus on Artificial Intelligence and Software Engineering
-
 ### B.S. in Computer Science  
 **National Taiwan University**, Taipei  
 *2019 – 2025*  
